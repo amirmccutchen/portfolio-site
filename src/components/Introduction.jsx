@@ -8,7 +8,7 @@ function Introduction() {
             <h1 className = 'text-5xl md:text-7x1 dark:text-neutral-300 mb-5 md:mb-5 font-bold'>Amir McCutchen</h1>
             <p className = 'text-base md:text-xl mb-4 font-medium'>Web Developer & Software Engineer</p>
             <img // insert your image here, resize if needed using the w-x/12 starting with a mobile view, then work your way up
-               src = '../public/images/me.jpg'
+               src = '../images/me.jpg'
                alt = "Amir McCutchen" 
                class = "rounded-full w-8/12 md:w-5/12 lg:w-3/12 mb-6"
             />
