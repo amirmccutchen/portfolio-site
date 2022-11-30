@@ -5,7 +5,7 @@ export default [
         year: 'Today',
         title: 'Software Engineering Student',
         duration: '1 year',
-        details: "Desire and motivation to learn about what Software Development & Programming truly had to offer, I enrolled in Thinkful's Software Engineering Immersion program. I studied and became proficient in the fundamentals of JavaScript, as well as HTML, CSS, PostgreSQL and frameworks such as React, Vite, Tailwind, ExpressJS, and Knex.",
+        details: "Desire and motivation to learn about what Software Development & Programming truly had to offer, I enrolled in Thinkful's Software Engineering Immersion program. I studied and became proficient in the fundamentals of JavaScript, as well as HTML, CSS, PostgreSQL and frameworks such as React, Vite, TailwindCSS, ExpressJS, and Knex.",
     },
     {
         year: '2020',
