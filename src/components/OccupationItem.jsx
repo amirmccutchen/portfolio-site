@@ -16,7 +16,7 @@ function OccupationItem({ year, title, duration, details }) {
                   {duration}
                </div>
             </p>
-            <p className = 'my-2 text-base font-normal text-gray-600 dark:text-neutral-300 opacity-95 '>
+            <p className = 'my-2 text-base font-normal text-gray-800 dark:text-neutral-300 opacity-95 '>
                {details}
             </p>
          </li>

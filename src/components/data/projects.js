@@ -1,20 +1,20 @@
 export default [
     {
-        title: 'Project 1',
-        imgUrl: 'image url',
-        stack: ['HTML', 'CSS', 'JS'],
-        link: 'link',
+        title: 'Flash Card App',
+        imgUrl: '../../public/images/flashcards.png',
+        stack: ['JavaScript', 'React', 'HTML'],
+        link: 'https://github.com/amirmccutchen/flashcards-app',
     },
     {
-        title: 'Project 2',
-        imgUrl: 'image url',
-        stack: ['HTML', 'CSS', 'JS'],
-        link: 'link',
+        title: 'Encryption/Decryption App',
+        imgUrl: '../../public/images/decoderring.png',
+        stack: ['JavaScript', 'HTML', 'Test Driven Development'],
+        link: 'https://github.com/amirmccutchen/DECODER-RING',
     },
     {
-        title: 'Project 3',
-        imgUrl: 'image url',
-        stack: ['HTML', 'CSS', 'JS'],
-        link: 'link',
+        title: 'Recipe Logger',
+        imgUrl: '../../public/images/recipetracker.png',
+        stack: ['JavaScript', 'React', 'CSS'],
+        link: 'https://github.com/amirmccutchen/recipe-tracker',
     },
 ];
