@@ -12,7 +12,7 @@ export default [
         title: 'Developer Portfolio',
         imgUrl: '../../images/port.png',
         stack: ['JavaScript', 'React', 'CSS'],
-        link: 'https://github.com/amirmccutchen/recipe-tracker',
+        link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
         title: 'Encryption/Decryption App',

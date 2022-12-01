@@ -12,7 +12,7 @@ function Introduction() {
                alt = "Amir McCutchen" 
                class = "rounded-full w-8/12 md:w-5/12 lg:w-3/12 mb-6"
             />
-            <p className = 'text-md max-w-xl mb-6 font-bold'>I am a full-stack software engineer working to solve modern solutions and create smooth, user friendly applications. All of my projects are made to provide a streamlined, effective user experience with code written with an emphasis on cleanliness and legibility. Coming from an entreprenuerial background, I know that ease of use and a streamlined experience within an app is the key to converting a potential client into a frequent one.</p>
+            <p className = 'text-md max-w-xl mb-6 font-bold'>I am a Full-Stack Software Engineer working to find modern solutions and create smooth, user-friendly applications. All projects are made to provide a streamlined, effective user experience in code written with an emphasis on cleanliness and legibility. Coming from an entreprenuerial background, I know that ease of use and a streamlined experience within an app is the key to converting a potential client into a frequent one.</p>
         </div>
     )
 }
