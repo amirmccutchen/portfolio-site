@@ -77,7 +77,7 @@ function App() {
         >
           {theme === 'dark' ? sun : moon}
         </button>
-        <div className="bg-neutral-50 dark:bg-gradient-to-br from-neutral-900 to-darkblue text-zinc-900 dark:text-neutral-100 min-h-screen font-inter">
+        <div className="bg-neutral-50 dark:bg-gradient-to-br from-zinc-900 to-darkblue text-zinc-900 dark:text-neutral-100 min-h-screen font-inter">
           <div className="max-w-5xl w-11/12 mx-auto">
           <Introduction />
           <Portfolio />
