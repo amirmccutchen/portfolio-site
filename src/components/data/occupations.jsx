@@ -12,7 +12,7 @@ export default [
         year: '2020',
         title: 'First Line of Code',
         duration: '',
-        details: "My first time learning about what programming was all about. I was always curious about how coding worked, so I started to watch videos on Python & this is where my journey as a programmer truly began.",
+        details: "My first time learning what programming was all about. I was always curious about how coding worked, so I started to watch videos on Python & this is where my journey as a programmer truly began.",
     },
     {
         year: '2017',
