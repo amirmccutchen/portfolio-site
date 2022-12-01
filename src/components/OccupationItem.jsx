@@ -1,5 +1,7 @@
 import React from "react";
 
+// No need to do anything here, unless you want to mess around with the styling. Compiles the objects from /data/occupations.js.
+
 function OccupationItem({ year, title, duration, details }) {
    return (
       <ol className= 'flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700 '>

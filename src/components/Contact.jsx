@@ -5,7 +5,7 @@ function Contact() {
     return (
         <div className = 'flex flex-col mb-10 mx-auto'>
             <div className = 'flex justify-center items-center'>
-                <form // This will store your form submissions, sign up on a free site such as getform.io & create a new form, then paste your link into action & make sure the method is set to POST
+                <form // This will store your form submissions, sign up on a free site such as getform.io & create a new form, then paste your link into action.
                 action = 'https://getform.io/f/a9924e91-687d-4e14-a253-48dc4c474461'
                 method = 'POST'
                 className = 'flex flex-col w-full md:w-7/12'>

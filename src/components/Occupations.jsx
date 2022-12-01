@@ -3,6 +3,8 @@ import occupations from "./data/occupations";
 import OccupationItem from "./OccupationItem";
 import Title from "./Title";
 
+// Nothing to do here, unless you want to edit the styling.
+
 function Occupations() {
     return (
        <div className="flex flex-col md:flex-row justify-center my-20">
