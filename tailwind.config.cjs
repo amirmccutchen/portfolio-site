@@ -4,7 +4,7 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'darkblue': '#1f2836',
+				'darkblue': '#263143',
 			},
 			fontFamily: {
 				inter: ['inter', 'serif'],
