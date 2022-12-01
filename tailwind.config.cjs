@@ -5,6 +5,7 @@ module.exports = {
 		extend: {
 			colors: {
 				'darkblue': '#263143',
+				'bluebutton': '#3770FF'
 			},
 			fontFamily: {
 				inter: ['inter', 'serif'],
