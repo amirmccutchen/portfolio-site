@@ -3,6 +3,9 @@ module.exports = {
 	darkMode: 'class',
 	theme: {
 		extend: {
+			colors: {
+				'darkblue': '#0D1117',
+			},
 			fontFamily: {
 				inter: ['inter', 'serif'],
 			},
