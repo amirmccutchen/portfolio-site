@@ -1,4 +1,5 @@
 // Add your portfolio projects here
+import React from "react";
 
 export default [
     {
