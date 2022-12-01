@@ -1,5 +1,7 @@
 import React from "react";
 
+// This component compiles all of your projects from the projects.js, nothing to edit here other than styling.
+
 function ProjectItem({ title, imgUrl, stack, link}) {
   return (
     <a 
