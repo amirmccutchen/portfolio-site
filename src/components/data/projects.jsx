@@ -15,8 +15,8 @@ export default [
         link: 'https://github.com/amirmccutchen/DECODER-RING',
     },
     {
-        title: 'Recipe Logger',
-        imgUrl: '../../images/recipetracker.png',
+        title: 'Developer Portfolio',
+        imgUrl: '../../images/port.png',
         stack: ['JavaScript', 'React', 'CSS'],
         link: 'https://github.com/amirmccutchen/recipe-tracker',
     },
