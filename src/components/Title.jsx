@@ -1,5 +1,7 @@
 import React from "react";
 
+// Creates section titles for Timeline and Contact, nothing to edit here unless you want to edit the styling theme.
+
 function Title({ children, id }) {
     return (
         <h1
