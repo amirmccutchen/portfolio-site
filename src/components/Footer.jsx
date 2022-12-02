@@ -4,13 +4,13 @@ import React from "react";
 
 function Footer() {
     return (
-        <div className = 'py-5 text-center '>
+        <div className = 'py-3 text-center '>
             {/* add social icons here */}
             <p className = 'text-sm mt-2 opacity-60'>
                 &copy; {new Date().getFullYear()} Amir McCutchen. <br /> Built with JavaScript, React, and TailwindCSS.
             </p>
         </div>
-    )
-}
+    );
+};
 
 export default Footer;

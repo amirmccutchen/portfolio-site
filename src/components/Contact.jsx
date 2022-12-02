@@ -30,7 +30,7 @@ function Contact() {
                     />
                     <button
                       type = 'bottom'
-                      className = 'text-center place-self-center inline-block px-8 py-3 w-max text-neutral-200 font-medium rounded-md text-white bg-gradient-to-r from-slate-700 to-gray-800 dark:from-gray-900 dark:to-slate-700 drop-shadow-md hover:stroke-white'>
+                      className = 'text-center place-self-center inline-block px-10 py-3 w-max text-neutral-200 font-medium rounded-md text-white bg-gradient-to-r from-slate-700 to-gray-800 dark:from-gray-900 dark:to-slate-700 drop-shadow-md hover:stroke-white'>
                         Get In Touch
                       </button>
                 </form>

@@ -26,7 +26,7 @@ function ProjectItem({ title, imgUrl, stack, link}) {
           </p>
        </div>
     </a>
- )
-}
+ );
+};
 
 export default ProjectItem;
