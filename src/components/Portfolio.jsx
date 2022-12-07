@@ -2,7 +2,7 @@ import React from "react";
 import projects from "./data/projects";
 import ProjectItem from "./ProjectItem";
 
-// This component shows your entire portfolio, nothing to add here unless you want to edit styling.
+// This component shows your entire portfolio, nothing to add here unless you want to edit styling
 
 function Portfolio() {
    return (
