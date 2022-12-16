@@ -9,12 +9,6 @@ export default [
         details: `Desire and motivation to learn about what Software Development & Programming truly had to offer, I enrolled in Thinkful/Chegg's Software Engineering Immersion program. I studied and became proficient in the fundamentals of JavaScript, as well as HTML, CSS, PostgreSQL and frameworks such as React, Vite, TailwindCSS, ExpressJS, and Knex.`,
     },
     {
-        year: '2020',
-        title: 'First Line of Code',
-        duration: '',
-        details: `My first time learning what programming was all about. I was always curious about how coding worked, so I started to watch videos on Python & this is where my journey as a programmer truly began.`,
-    },
-    {
         year: '2017',
         title: 'Music Producer & Content Creator',
         duration: '5 years',
