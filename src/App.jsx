@@ -32,7 +32,7 @@ function App() {
 		}
 	}, [theme]);
 
-  // dark mode button icons
+  // dark/light mode button icons
 
   const sun = (
 		<svg
