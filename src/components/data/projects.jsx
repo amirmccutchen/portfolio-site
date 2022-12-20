@@ -1,23 +1,21 @@
 // Add your portfolio projects here
-import React from "react";
-
 export default [
     {
-        title: 'Flash Card App',
+        title: 'Flash Card Application',
         imgUrl: '../../images/flashcards.png',
-        stack: ['JavaScript', 'React', 'HTML'],
+        stack: ['JavaScript', 'React', 'HTML', 'CRUD'],
         link: 'https://github.com/amirmccutchen/flashcards-app',
     },
     {
         title: 'Developer Portfolio',
         imgUrl: '../../images/port.png',
-        stack: ['JavaScript', 'React', 'CSS'],
+        stack: ['JavaScript', 'React', 'CSS', 'Vite'],
         link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
-        title: 'Encryption/Decryption App',
-        imgUrl: '../../images/decoderring.png',
-        stack: ['JavaScript', 'HTML', 'Test Driven Development'],
-        link: 'https://github.com/amirmccutchen/DECODER-RING',
+        title: 'Recipe Tracking App',
+        imgUrl: '../../images/recipetracker.png',
+        stack: ['JavaScript', 'React', 'Test Driven Development', 'CRUD'],
+        link: 'https://github.com/amirmccutchen/recipe-tracker',
     },
 ];
