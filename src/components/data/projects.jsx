@@ -13,9 +13,9 @@ export default [
         link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
-        title: 'Recipe Tracking Application',
-        imgUrl: '../../images/recipetracker.png',
-        stack: ['JavaScript', 'React', 'Test Driven Development'],
-        link: 'https://github.com/amirmccutchen/recipe-tracker',
+        title: 'Movie Database Application',
+        imgUrl: '../../images/movies.png',
+        stack: ['JavaScript', 'Express', 'Node.js', 'Knex', 'PostgreSQL'],
+        link: 'https://github.com/amirmccutchen/WeLoveMovies-Backend',
     },
 ];
