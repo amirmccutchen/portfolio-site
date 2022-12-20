@@ -1,7 +1,7 @@
 // Add your portfolio projects here
 export default [
     {
-        title: 'Flash Card Application',
+        title: 'Study Tool Application',
         imgUrl: '../../images/flashcards.png',
         stack: ['JavaScript', 'React', 'HTML', 'CRUD'],
         link: 'https://github.com/amirmccutchen/flashcards-app',
@@ -13,9 +13,9 @@ export default [
         link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
-        title: 'Recipe Tracking App',
+        title: 'Recipe Tracking Application',
         imgUrl: '../../images/recipetracker.png',
-        stack: ['JavaScript', 'React', 'Test Driven Development', 'CRUD'],
+        stack: ['JavaScript', 'React', 'Test Driven Development'],
         link: 'https://github.com/amirmccutchen/recipe-tracker',
     },
 ];
