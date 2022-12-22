@@ -9,7 +9,7 @@ export default [
     {
         title: 'Developer Portfolio',
         imgUrl: '../../images/port.png',
-        stack: ['JavaScript', 'React', 'CSS', 'Vite', 'Jest'],
+        stack: ['JavaScript', 'React', 'CSS', 'Vite'],
         link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
