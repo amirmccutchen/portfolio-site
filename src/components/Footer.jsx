@@ -7,7 +7,7 @@ function Footer() {
     return (
         <div className = 'py-3 text-center '>
             {/* add social icons here */}
-            <SocialIcon url="https://github.com/amirmccutchen" bgColor="#384a69" />
+            <SocialIcon url="https://github.com/amirmccutchen" bgColor="#525252" />
             <p className = 'text-sm mt-2 opacity-60'>
                 &copy; {new Date().getFullYear()} Amir McCutchen. <br /> Built with JavaScript, React, and TailwindCSS.
             </p>
