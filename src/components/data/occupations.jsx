@@ -9,7 +9,7 @@ export default [
     },
     {
         year: '2017',
-        title: 'Composer & Content Creator',
+        title: 'Composer & Entrepreneur',
         duration: '5 years',
         details: `Upon graduating high school, I developed a passion for music production, and taught myself Image Line's FL Studio Music Production software. Over the years as I grew my product and marketed myself through learning the algorithms of Instagram, I amassed over 44,000 followers, more than 3,000 unique clients, over 5 million streams, & licensed placements with entities such as Rick Ross, Logic, Trippie Redd,  Aubrey Joseph, Just Juice, Lil Tjay, and more.`,
     },
