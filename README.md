@@ -1,4 +1,4 @@
-# you can visit the fully deployed and working portfolio website here: https://amirmccutchen.com/
+# Fully deployed and Working Portfolio Webpage here: https://amirmccutchen.com/
 # Developer Portfolio
 
 A clean and mobile-friendly web page template for developers and artists to showcase their portfolios.
