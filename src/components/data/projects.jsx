@@ -1,23 +1,21 @@
 // Add your portfolio projects here
-import React from "react";
-
 export default [
     {
-        title: 'Flash Card App',
+        title: 'Study Tool Application',
         imgUrl: '../../images/flashcards.png',
-        stack: ['JavaScript', 'React', 'HTML'],
+        stack: ['JavaScript', 'React', 'HTML', 'CRUD', 'Jest'],
         link: 'https://github.com/amirmccutchen/flashcards-app',
     },
     {
         title: 'Developer Portfolio',
         imgUrl: '../../images/port.png',
-        stack: ['JavaScript', 'React', 'CSS'],
+        stack: ['JavaScript', 'React', 'CSS', 'Vite'],
         link: 'https://github.com/amirmccutchen/portfolio-site',
     },
     {
-        title: 'Encryption/Decryption App',
-        imgUrl: '../../images/decoderring.png',
-        stack: ['JavaScript', 'HTML', 'Test Driven Development'],
-        link: 'https://github.com/amirmccutchen/DECODER-RING',
+        title: 'Movie Database Application',
+        imgUrl: '../../images/movies.png',
+        stack: ['JavaScript', 'Express', 'Node.js', 'Knex', 'PostgreSQL', 'Jest'],
+        link: 'https://github.com/amirmccutchen/WeLoveMovies-Backend',
     },
 ];

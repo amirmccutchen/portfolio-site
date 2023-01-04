@@ -4,6 +4,7 @@ import OccupationItem from "./OccupationItem";
 import Title from "./Title"; 
 
 // Nothing to do here, unless you want to edit the styling.
+// Maps through each occupation item and displays on the timeline.
 
 function Occupations() {
     return (

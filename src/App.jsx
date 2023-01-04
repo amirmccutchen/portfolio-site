@@ -32,7 +32,7 @@ function App() {
 		}
 	}, [theme]);
 
-  // dark mode button icons
+  // dark/light mode button icons
 
   const sun = (
 		<svg
@@ -67,6 +67,8 @@ function App() {
 			/>
 		</svg>
 	);
+
+    // You can edit dark theme styling on line 82 (labeled 'dark:')
 
   return (
     <>
