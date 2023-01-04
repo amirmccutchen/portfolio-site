@@ -68,6 +68,8 @@ function App() {
 		</svg>
 	);
 
+    // You can edit dark theme styling on line 82 (labeled 'dark:')
+
   return (
     <>
       <button

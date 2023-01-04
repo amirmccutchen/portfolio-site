@@ -3,6 +3,7 @@ import projects from "./data/projects";
 import ProjectItem from "./ProjectItem";
 
 // This component shows your entire portfolio, nothing to add here unless you want to edit styling
+// Maps through each project item and displays on the timeline.
 
 function Portfolio() {
    return (

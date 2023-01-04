@@ -1,6 +1,8 @@
 import React from "react";
 
-// No need to do anything here, unless you want to mess around with the styling. Compiles the objects from /data/occupations.js.
+// No need to do anything here, unless you want to edit styling. 
+// Compiles the objects from /data/occupations.js before sending them to the Occupations component.
+
 
 function OccupationItem({ year, title, duration, details }) {
    return (
