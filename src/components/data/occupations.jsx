@@ -3,7 +3,7 @@
 export default [
     {
         year: 'Today',
-        title: 'Software Engineering Student',
+        title: 'Junior Software Engineer',
         duration: '1 year',
         details: `Desire and motivation to learn about what Software Development & Programming truly had to offer, 
         I enrolled in Thinkful/Chegg's Software Engineering Immersion program. 
