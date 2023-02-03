@@ -9,7 +9,7 @@ export default [
     {
         title: 'SecureFi Dashboard',
         imgUrl: '../../images/dashboard.png',
-        stack: ['JavaScript', 'React', 'React Hooks', 'HTML', 'Tailwind', 'Vite'],
+        stack: ['JavaScript', 'React', 'Redux', 'Express', 'MongoDB', 'Material UI',],
         link: 'https://github.com/amirmccutchen/securefi-dashboard',
     },
     {
