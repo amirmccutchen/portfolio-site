@@ -8,7 +8,7 @@ export default [
         details: `Desire and motivation to learn about what Software Development & Programming truly had to offer, 
         I enrolled in Thinkful/Chegg's Software Engineering Immersion program. 
         I studied and became proficient in the fundamentals of JavaScript, as well as HTML, 
-        CSS, PostgreSQL and frameworks such as React, Vite, TailwindCSS, ExpressJS, and Knex`,
+        CSS, PostgreSQL and frameworks such as React, Vite, TailwindCSS, ExpressJS, and KnexJS.`,
     },
     {
         year: '2017',
