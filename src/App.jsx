@@ -75,11 +75,11 @@ function App() {
       <button
         type = 'button'
         onClick = {handleThemeSwitch}
-        className="fixed p-2 z-10 right-3 top-4 bg-gray-900 dark:bg-amber-300 text-lg p-1 rounded-md"
+        className="fixed z-10 right-1 md:right-10 top-4 bg-neutral-600 dark:bg-neutral-300 text-lg p-1 rounded-md"
         >
           {theme === 'dark' ? sun : moon}
         </button>
-        <div className="bg-neutral-50 dark:bg-gradient-to-br from-black to-darkblue text-zinc-900 dark:text-neutral-100 min-h-screen font-inter">
+        <div className="bg-neutral-50 dark:bg-gradient-to-br from-darkblue to-neutral-900 text-zinc-900 dark:text-neutral-100 min-h-screen font-inter">
           <div className="max-w-5xl w-11/12 mx-auto">
           <Introduction />
           <Portfolio />

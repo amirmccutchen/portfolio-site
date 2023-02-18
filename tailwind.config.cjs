@@ -4,11 +4,12 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'darkblue': '#11161f',
+				'darkblue': '#18181b',
 				'bluebutton': '#3770FF'
 			},
 			fontFamily: {
 				inter: ['inter', 'serif'],
+				sen: ['Sen', 'sans-serif'],
 			},
 		},
 	},
