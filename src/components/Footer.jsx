@@ -1,6 +1,6 @@
 import React from "react";
-import ReactDOM from 'react-dom';
 import { SocialIcon } from 'react-social-icons';
+
 // Replace my name on line 10 with your name
 
 function Footer() {

@@ -1,5 +1,6 @@
 import React from "react";
 import Title from "./Title";
+
 // For your name, title, and bio
 
 function Introduction() {
@@ -10,7 +11,7 @@ function Introduction() {
             <img // insert your image here, resize if needed on line 12 using the w-x/12 starting with a mobile view, then work your way up
                src = '../images/me.jpg'
                alt = "Amir McCutchen" 
-               class = "rounded-full w-5/12 md:w-4/12 lg:w-3/12 mb-6"
+               class = "rounded-full w-6/12 md:w-4/12 lg:w-3/12 mb-6"
             />
             <p className = 'text-md max-w-xl mb-6 font-medium md:font-semibold dark:font-medium font-sen dark:text-white'>
                 I am a Full-Stack Software Developer working to provide modern solutions and create smooth, user-friendly applications. 
