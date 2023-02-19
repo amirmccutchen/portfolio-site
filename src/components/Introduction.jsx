@@ -4,9 +4,9 @@ import Title from "./Title";
 
 function Introduction() {
     return (
-        <div className = 'flex items-center justify-center flex-col text-center pt-12 pb-6'>
-            <h1 className = 'text-5xl md:text-7x1 dark:text-neutral-100 mb-5 md:mb-5 font-bold'>Amir McCutchen</h1>
-            <p className = 'text-base md:text-xl mb-5 font-medium font-sen'>Web Developer & Software Engineer</p>
+        <div className = 'flex items-center justify-center flex-col text-center pt-10 pb-6'>
+            <h1 className = 'text-5xl md:text-7x1 mb-5 md:mb-5 font-bold'>Amir McCutchen</h1>
+            <p className = 'text-xl mb-5 font-medium font-sen'>Web Developer & Software Engineer</p>
             <img // insert your image here, resize if needed on line 12 using the w-x/12 starting with a mobile view, then work your way up
                src = '../images/me.jpg'
                alt = "Amir McCutchen" 
