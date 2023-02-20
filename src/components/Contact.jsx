@@ -14,19 +14,19 @@ function Contact() {
                       type = 'text'
                       name = 'name'
                       placeholder = 'Name'
-                      className = 'p-2 bg-transparent border-2 border-darkblue dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
+                      className = 'p-2 bg-transparent border-2 border-neutral-600 dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
                     />
                     <input
                       type = 'text'
                       name = 'name'
                       placeholder = 'Email Address'
-                      className = 'my-2 p-2 bg-transparent border-2 border-darkblue dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
+                      className = 'my-2 p-2 bg-transparent border-2 border-neutral-600 dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
                     />
                     <textarea
                       name = 'message'
                       placeholder = 'Message'
                       rows = '10'
-                      className = 'p-2 mb-4 bg-transparent border-2 border-darkblue dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
+                      className = 'p-2 mb-4 bg-transparent border-2 border-neutral-600 dark:border-neutral-200 rounded-md focus:outline-none dark:opacity-80 font-sen'
                     />
                     <button
                       type = 'bottom'
