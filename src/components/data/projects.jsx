@@ -9,13 +9,13 @@ export default [
     {
         title: 'SocialFi, a SecureFi App',
         imgUrl: '../../images/social.png',
-        stack: ['JavaScript', 'React', 'Redux', 'Express', 'JSON Web Token', 'Bcrypt', 'MongoDB', 'Material UI', 'Authentication', 'API Requests'],
+        stack: ['NodeJS', 'React', 'Redux', 'Express', 'JSON Web Token', 'Bcrypt', 'MongoDB', 'Material UI', 'Authentication', 'API Requests'],
         link: 'https://github.com/amirmccutchen/securefi-dashboard',
     },
     {
         title: 'SecureFi Dashboard',
         imgUrl: '../../images/dashboard.png',
-        stack: ['JavaScript', 'React', 'Redux', 'Express', 'MongoDB', 'Mongoose', 'Material UI', 'ContextAPI',],
+        stack: ['NodeJS', 'React', 'Redux', 'Express', 'MongoDB', 'Mongoose', 'Material UI', 'ContextAPI',],
         link: 'https://github.com/amirmccutchen/securefi-dashboard',
     },
 
