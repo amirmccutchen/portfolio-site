@@ -7,17 +7,18 @@ export default [
     //     link: 'https://github.com/amirmccutchen/flashcards-app',
     // },
     {
-        title: 'SecureFi Dashboard',
-        imgUrl: '../../images/dashboard.png',
-        stack: ['JavaScript', 'React', 'Redux', 'Express', 'MongoDB', 'Material UI',],
+        title: 'SocialFi, a SecureFi App',
+        imgUrl: '../../images/social.png',
+        stack: ['JavaScript', 'React', 'Redux', 'Express', 'JSON Web Token', 'Bcrypt', 'MongoDB', 'Material UI', 'Authentication', 'API Requests'],
         link: 'https://github.com/amirmccutchen/securefi-dashboard',
     },
     {
-        title: 'Developer Portfolio',
-        imgUrl: '../../images/port.png',
-        stack: ['JavaScript', 'React', 'CSS', 'Vite'],
-        link: 'https://github.com/amirmccutchen/portfolio-site',
+        title: 'SecureFi Dashboard',
+        imgUrl: '../../images/dashboard.png',
+        stack: ['JavaScript', 'React', 'Redux', 'Express', 'MongoDB', 'Mongoose', 'Material UI', 'ContextAPI',],
+        link: 'https://github.com/amirmccutchen/securefi-dashboard',
     },
+
     {
         title: 'SecureFi Landing Page',
         imgUrl: '../../images/securefi.png',
@@ -29,5 +30,11 @@ export default [
     //     imgUrl: '../../images/movies.png',
     //     stack: ['JavaScript', 'Express', 'Node.js', 'Knex', 'PostgreSQL', 'Jest'],
     //     link: 'https://github.com/amirmccutchen/WeLoveMovies-Backend',
+    // },
+        // {
+    //     title: 'Developer Portfolio',
+    //     imgUrl: '../../images/port.png',
+    //     stack: ['JavaScript', 'React', 'CSS', 'Vite'],
+    //     link: 'https://github.com/amirmccutchen/portfolio-site',
     // },
 ];
