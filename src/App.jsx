@@ -1,9 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-import Introduction from "./components/Introduction";
-import Occupations from "./components/Occupations";
-import Portfolio from "./components/Portfolio";
+import { Contact, Introduction, Occupations, Footer, Portfolio } from "./components";
 
 // Nothing to add to this file.
 
