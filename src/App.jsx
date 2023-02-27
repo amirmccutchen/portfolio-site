@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
-import { Contact, Introduction, Occupations, Footer, Portfolio } from "./components";
+import { Introduction, Portfolio, Occupations, Contact, Footer, } from "./components";
 
 // Nothing to add to this file.
 
 function App() {
+
   // dark mode functionality
 
 	const [theme, setTheme] = useState(null);
@@ -64,7 +65,7 @@ function App() {
 		</svg>
 	);
 
-    // You can edit dark theme styling on line 82 (labeled 'dark:')
+    // You can edit dark theme styling on line 79 (labeled 'dark:')
 
   return (
     <>

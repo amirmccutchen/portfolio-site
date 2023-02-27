@@ -10,7 +10,7 @@ export default [
         title: 'SocialFi, a SecureFi App',
         imgUrl: '../../images/social.png',
         stack: ['NodeJS', 'React', 'Redux', 'Express', 'JSON Web Token', 'Bcrypt', 'MongoDB', 'Material UI', 'Authentication', 'API Requests'],
-        link: 'https://github.com/amirmccutchen/securefi-dashboard',
+        link: 'https://github.com/amirmccutchen/SocialFi',
     },
     {
         title: 'SecureFi Dashboard',
